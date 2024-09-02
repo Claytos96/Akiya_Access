@@ -1,1 +1,5 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+Le Wagon Bootcamp Project
+
+Akiya Access
+
+A website for prospective home buyers to search for and buy vacant and abandoned houses in Japan.
